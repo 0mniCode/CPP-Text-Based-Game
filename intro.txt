@@ -1,0 +1,16 @@
+Alice is a young woman who feels like a misfit in her current high society life, she never understood the purpose of trying to fit in.
+She would choose to think about seemingly impossible scenarios in her head, rather than wanting to marry a man who she barely knows.
+As she was informed this lord would propose to her rather soon, she noticed a rabbit in the distance, which seemed to be wearing a suit.
+Finally when Alice is being proposed to, with everyone watching, she again saw the rabbit in the corner of her eye.
+Instead to agreeing to marry this man, she decided to run towards this rabbit, which seemed to be leading Alice somewhere specific.
+After chasing the rabbit for a seemingly long time, Alice found herself standing inches away from a huge rabbit hole at the base of a tree.
+As she tried to get a glimpse of anything in this rabbit hole, Alice fell into it for seemingly minutes, seeing many out of place objects on the way.
+Finally Alice hit solid ground, in a strange room...
+
+Game goal: find the complete set of Vorpal armor and the Vorpal sword, then slay the Jabberwocky!
+
+GENERAL CONTROLS: this game only allows two space seperated word commands, they can start with go,pickup,eat,drink,unlock,slay,talk, or talk.
+The second word could be things like an item, or direction, or a location name, remember if the name would have a space in it use a - to connect it. 
+shrink-drink (not shrink drink)
+
+

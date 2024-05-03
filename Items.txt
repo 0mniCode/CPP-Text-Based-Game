@@ -1,0 +1,48 @@
+SHRINK-DRINK
+A potion that shrinks whoever drinks it down to the size of an mouse.
+RABBIT-HOLE-ROOM
+DRINKABLE
+GROWTH-CAKE
+A cake that grows whoever eats it to the size of a large tree.
+RABBIT-HOLE-ROOM
+EDIBLE
+TINY-KEY
+A key that seems to open a very tiny door.
+RABBIT-HOLE-ROOM
+NOT-EDIBLE
+ABSOLEMS-PIPE
+A very small pipe, it would be rude to blow the smoke into someones face, no?
+ABSOLEMS-COVE
+NOT-EDIBLE
+DOG-KEY
+A key that used to be hung around the neck of a very large dog, might open the gate to the red castle.
+Autumn Forest Path
+NOT-EDIBLE
+VORPAL-SWORD
+The only weapon which can slay the Jabberwocky.
+RUINED-TOWN
+NOT-EDIBLE
+VORPAL-HELMET
+The helment of the legendary vorpal armor set.
+White Castle
+NOT-EDIBLE
+VORPAL-CHESTPLATE
+The chestplate of the legendary vorpal armor set.
+White Castle
+NOT-EDIBLE
+VORPAL-LEGPLATE
+The leg-plate of the legendary vorpal armor set.
+White Castle
+NOT-EDIBLE
+MADHATTERS-HAT
+The surprisingly nice and well kept hat of the Mad Hatter.
+Tea Party
+NOT-EDIBLE
+TEA-CUP
+A strangly still warm cup of tea.
+Tea Party
+NOT-EDIBLE
+EASTER-EGG
+A funny smelling item, which has a strange message on it: "I hope you're enjoying the game."
+Game-Dev Castle
+NOT-EDIBLE

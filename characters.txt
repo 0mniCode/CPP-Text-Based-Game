@@ -1,0 +1,24 @@
+WHITE-RABBIT
+A distinguished looking rabbit.
+Forest Path
+ABSOLEM
+A little wise and blue talking catipillar.
+ABSOLEMS-COVE
+MAD-HATTER
+A seemingly crazy bipolar man.
+Tea Party
+WHITE-QUEEN
+A very kind, although death obsessed queen.
+White Castle
+RED-QUEEN
+A evil vindictive monarch.
+Red Castle
+CHESHIRE-CAT
+A floating cat with a very creepy smile.
+Dark Forst Path
+JABBERWOCKY
+A disturbingly large and evil abomonation.
+Red Castle
+Developer
+A programmer hoping to get better at programming with every day, he also seems confused on why he is in this place.
+Game-Dev Castle

@@ -1,0 +1,99 @@
+RABBIT-HOLE-ROOM
+A room with many large doors, one tiny door to the north, a tiny key, a growth cake, a shrink drink, and a small chest that can hold items as you please.
+1
+-1
+-1
+-1
+LOCKED
+TINY-KEY
+SMALL
+Forest Path
+An winding rocky path where we see a strange white rabbit standing impatiently, maybe try talking to him.
+3
+0
+2
+-1
+UNLOCKED
+NO-KEY
+ANY-SIZE
+ABSOLEMS-COVE
+A small clearing surrounded by strange bushes, you can see the small blue catipillar hanging froma tree, whom White Rabbit mentioned, also a absolems pipe is seen on the ground.
+-1
+-1
+-1
+1
+UNLOCKED
+NO-KEY
+ANY-SIZE
+Dark Forst Path
+A quiet dark forest with a sinister ambience surroding the general area, you see a strange cheshire cat with a creepy long smile.
+4
+1
+-1
+-1
+UNLOCKED
+NO-KEY
+ANY-SIZE
+Tea Party
+An enclosed area with a long table of destroyed cups and plates, at the very end we see a crazy looking man. Also you see a tea cup and the madhatters hat on the table.
+-1
+3
+-1
+5
+UNLOCKED
+NO-KEY
+ANY-SIZE
+Autumn Forest Path
+A breathtaking orange and red forest, with the fresh smell of spring in the air. Also a dog key that looks like it belonged to a large dog.
+7
+-1
+4
+6
+UNLOCKED
+NO-KEY
+ANY-SIZE
+RUINED-TOWN
+A destroyed town, atleast what's left of it. However, you notice amoung the rubble, a shining beautiful sword.
+-1
+-1
+5
+-1
+UNLOCKED
+NO-KEY
+ANY-SIZE
+CASTLE-CROSSROADS
+A crossroads between red castle to the east and the white castle to the west, and a strange game-dev castle up north.
+8
+5
+9
+10
+LOCKED
+DOG-KEY
+BIG
+Game-Dev Castle
+A strange castle, with an even stranger person in it. Seems to be the creator of this game. He is placed down a strange easter egg for you to pickup
+-1
+7
+-1
+-1
+UNLOCKED
+NO-KEY
+ANY-SIZE
+White Castle
+A beautiful pristine castle, where a queen dawned in all white is awaiting you in front of the castle. You see the complete Vorpal Armor set (chestplate, legplate, helmet) waiting for you by the queen.
+-1
+-1
+-1
+7
+UNLOCKED
+NO-KEY
+ANY-SIZE
+Red Castle
+A intimidating creepy castle, where a evil looking queen is staring you down, with her Jabberwocky stands beside her.
+-1
+-1
+7
+-1
+UNLOCKED
+NO-KEY
+ANY-SIZE
